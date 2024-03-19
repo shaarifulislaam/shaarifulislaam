@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
 <h3 align="center">I'm a Programmer, Developer!!</h3>
 
-- 🌱 I’m currently working at Codixel as a Frontend Developer **
+- 🌱 I’m currently working at Codixel as a Frontend Developer
 
 - 👨‍💻 All of my projects are available at [https://sharifulislam.netlify.app/](https://sharifulislam.netlify.app/)
 
