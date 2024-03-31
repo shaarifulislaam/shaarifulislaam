@@ -7,7 +7,5 @@
 
 - 📄 Know about my experiences to visit my [website](https://sharifulislam.netlify.app/). 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaarifulislaam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Shariful's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaarifulislaam)](https://github.com/shaarifulislaam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaarifulislaam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![Shariful's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaarifulislaam)](https://github.com/shaarifulislaam/github-readme-stats)
 
