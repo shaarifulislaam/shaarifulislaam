@@ -1,8 +1,6 @@
 # Hi 👋, I'm Shariful Islam
 
 A passionate **Frontend Developer** from Bangladesh 🇧🇩  
-Currently building responsive and user-friendly web apps at **Codixel**.
-
 ---
 
 ## 🌱 About Me
