@@ -13,7 +13,7 @@ A passionate **Frontend Developer** from Bangladesh 🇧🇩
 ---
 
 ## 💼 Experience
-**Frontend Developer** @ Codixel (Feb 2024 – Present)  
+**Frontend Developer** @ Codixel (Feb 2024 – Sept 2025)  
 - Developed responsive websites and interactive components using **React.js/Next.js**.  
 - Implemented **Shopify custom sections** based on client Figma designs.  
 - Collaborated with designers and backend developers to deliver high-quality web apps.  
